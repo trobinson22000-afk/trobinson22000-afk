@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 
 - 🔭 I’m currently working on writing programs for various friends/family as well as building theoretical concepts that could be implemented in business environments
@@ -9,6 +9,7 @@ c) Planner application that allows you to set events, budgets, and expenses to u
 
 
 - ⚡ Current Experience:
+ 
   Python:
     Courses: Learn Python 3 (codecademy.com), Introduction to Python Programming (Sophia Learning)
     Projects: 
@@ -16,6 +17,7 @@ c) Planner application that allows you to set events, budgets, and expenses to u
       Roulette Wheel: Text based Roulette game utilizing color formats, random integers, and fully functional betting mechanics
       Zombie Game: Text based Survival game, Super early stages currently but hoping to implement a click GUI to create a more enjoyable experience, will include combats, level mecahnics, and a base building feature
       Ticketing Software: Rough outline of a Support Program. Allows ticket creation, ticket view, Open/Closed ticket editing, and admin panels to view closed/open tickets along with who accessed them.
+
   SQL:
     Courses: Introduction to Relational Databases (Sophia Learning)
     Projects: No Projects yet
