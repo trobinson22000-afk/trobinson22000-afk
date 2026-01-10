@@ -1,13 +1,9 @@
 ## About Me
 
-
-- 🔭 I’m currently working on writing programs for various friends/family as well as building theoretical concepts that could be implemented in business environments
-
-    a) Automation program based on a Rest API through Durst Workflow. (Not Started)
-
-    b) Python program to create organized Invoices and Monthly expense/income reports based on transaction entries (Created, Updating)
-
-    c) Planner application that allows you to set events, budgets, and expenses to update JSON libraries to include things like remaining budget, countdowns to the date, and daily plans within a week long event. (Not Started)
+- Starting a degree in Cloud and Network Engineering starting 2/1/2026. Accelerating my completion to meet deadlines.
+  
+- 🔭 I'm a self taught Software engineer using resources like codecademy, Sophia Learning, and my reliable tutor Claude i've been able to teach myself information about Python, SQL, and now C# as I continue to dig into other languages
+and how they are applied in the professional world. 
 
 
 
