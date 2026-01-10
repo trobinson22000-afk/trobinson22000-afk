@@ -2,8 +2,11 @@
 
 
 - 🔭 I’m currently working on writing programs for various friends/family as well as building theoretical concepts that could be implemented in business environments
+- 
 a) Automation program based on a Rest API through Durst Workflow. (Not Started)
+
 b) Python program to create organized Invoices and Monthly expense/income reports based on transaction entries (Created, Updating)
+
 c) Planner application that allows you to set events, budgets, and expenses to update JSON libraries to include things like remaining budget, countdowns to the date, and daily plans within a week long event. (Not Started)
 
 
