@@ -1,9 +1,8 @@
 ## About Me
 
-- Starting a degree in Cloud and Network Engineering starting 2/1/2026. Accelerating my completion to meet deadlines.
+- Started my degree in Cloud and Network Engineering starting 9/01/2025 Accelerating my completion to meet personal goals.
   
-- 🔭 I'm a self taught Software engineer using resources like codecademy, Sophia Learning, and my reliable tutor Claude i've been able to teach myself information about Python, SQL, and now C# as I continue to dig into other languages
-and how they are applied in the professional world. 
+- 🔭 I'm a self taught Software engineer using resources like codecademy, Sophia Learning, and my reliable tutor Claude i've been able to teach myself information about Python, SQL, and now C# as I continue to dig into other languages and how they are applied in the professional world. Though my experience isnt very strong now, over the past 3 months ive averaged ~50-60 hours weekly pursuing and applying my knowledge where I can
 
 
 
@@ -14,12 +13,14 @@ and how they are applied in the professional world.
     - Courses: Learn Python 3 (codecademy.com), Introduction to Python Programming (Sophia Learning)
   
     - Projects:
+ 
+      Workflow Utility : Click GUI program created to simplify and optimize workflow software at my current company. Using a restAPI I created a program capable of file imports, file stepping, file rotation, and more. (I did utilize Claude to learn how to create clean UIs using customtkinter as well as how to reach API endpoints)
   
-      Invoice Generator : Click GUI program that gathers basic information via drop boxes, text fields, and buttons to generate customer specific invoices and monthly income reports.
+      Invoice Generator : Click GUI program that gathers basic information via drop boxes, text fields, and buttons to generate customer specific invoices and monthly income reports in excel spreadsheets.
   
       Roulette Wheel: Text based Roulette game utilizing color formats, random integers, and fully functional betting mechanics
   
-      Zombie Game: Text based Survival game, Super early stages currently but hoping to implement a click GUI to create a more enjoyable experience, will include combats, level mecahnics, and a base building feature
+      Zombie Game: An abandoned project I made when I first earned python. Used a simple code structure containing text based prompts and graphics, and match statements handling responses. Basic combat system implemented using classes for enemies, weapons, and stats.
   
       Ticketing Software: Rough outline of a Support Program. Allows ticket creation, ticket view, Open/Closed ticket editing, and admin panels to view closed/open tickets along with who accessed them.
   
@@ -44,7 +45,7 @@ and how they are applied in the professional world.
 
   Microsoft Azure:
   
-    - Courses: Micrsoft Learn
+    - Courses: Micrsoft Learn + Udemy courses
 
     - Projects:
    
